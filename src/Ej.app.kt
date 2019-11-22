@@ -20,7 +20,7 @@
         // mostramos utilizando toString
         println(miComputador.toString())
     }
-
+/* Esto es un kotlin */
 /*
 fun producto(arg1: String, arg2: String): String {
     val x = parseInt(arg1)
